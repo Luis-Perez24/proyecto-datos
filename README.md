@@ -3,6 +3,10 @@
 **Curso:** Ingenieria de Datos 2026  
 **Dataset:** [Estimation of Obesity Levels Based On Eating Habits and Physical Condition (UCI)](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
 
+## Poster del Proyecto
+
+![Poster del Proyecto](PROYECTO.jpg)
+
 ## Descripcion
 
 Clasificacion multiclase para predecir 7 niveles de obesidad a partir de habitos alimenticios y actividad fisica. Se excluyen **Weight** y **Height** del entrenamiento para evitar *data leakage* (el IMC se define con esas variables).
