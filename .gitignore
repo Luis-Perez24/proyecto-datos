@@ -1,0 +1,6 @@
+venv_obesidad/
+obesity_dataset_limpio.csv
+Proyecto_Semestral_Datos_v2_ejecutado.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
